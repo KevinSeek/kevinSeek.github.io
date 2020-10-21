@@ -1,18 +1,18 @@
 # Site settings
-title: 'Joe Dorfman'
-description: 'Data Analyst in NYC'
-url: 'http://joedorfman.com'
+title: 'Kevin Seek'
+description: 'Data Scientist | Data Analyst | Recommender System Developer '
+url: '' #http://joedorfman.com
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Joe Dorfman'
-  email: joedorfman@gmail.com
-  twitter_username: joe_dorfman
+  name: 'Kevin Seek'
+  email: kevinseekkh@gmail.com
+  twitter_username: 
   facebook_username: 
-  github_username:  joedorfman
-  linkedin_username:  joedorfman
+  github_username:  KevinSeek
+  linkedin_username:  kevinseek
 
 defaults:
   -
