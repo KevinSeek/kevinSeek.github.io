@@ -1093,13 +1093,13 @@ pre {
 .container {
 	position: relative;
 	z-index: 500;
-	width: 940px;
+	width: auto; /* 940*/
 	margin: 0 auto; }
 
 .content-wrapper {
 	z-index: 800;
-	width: 60%;
-	max-width: 800px;
+	width: 60%; 
+	max-width: auto; /* 800*/
 	margin-left: 40%; }
 
 .content-wrapper__inner {
