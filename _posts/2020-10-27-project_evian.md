@@ -1383,4 +1383,4 @@ Examining the Type I & Type II errors where the models classified wrongly, the e
 As a value add - Client can consider their marketing efforts on Monday - Thursday from 9 pm to 12 midnight as based on the post frequency; these days and times have the highest.
 
 ### Supplementary Charts
-![Nb_cv_ROC](/images/portfolio/p003_project_evian/SupplementaryCharts.png)
+![Supplementary Charts](/images/portfolio/p003_project_evian/SupplementaryCharts.png)
